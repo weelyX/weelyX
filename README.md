@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Waleed 👋
 
-<!--
-**weelyX/weelyX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Science student interested in **Data analysis**, **Machine Learning**, and **Web Development**.
 
-Here are some ideas to get you started:
+I am currently preparing for a field training opportunity and building a portfolio that demonstrates practical experience in data analysis, machine learning, data mining, and web application development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+
+### Customer Churn Prediction
+Machine learning project for predicting customer churn using EDA, feature engineering, model comparison, and Logistic Regression tuning.
+
+### Data Mining Classification & Clustering
+Applied Decision Tree, KNN, Naive Bayes, and K-Means across multiple datasets, with model evaluation and result interpretation.
+
+### ML Model Comparison Suite
+Compared classification and regression models using Scikit-learn, including Logistic Regression, Neural Networks, Ridge Regression, and model evaluation metrics.
+
+### Honey E-Commerce Web App
+Course-based e-commerce web application built with HTML, CSS, JavaScript, PHP, and MySQL. Includes product browsing, cart functionality, authentication, order submission, and admin order management.
+
+### School Bus Dynamic Route Frontend
+Interactive school bus tracking frontend with role-based screens, live-map simulation, attendance tracking, bilingual UI support, and localStorage-based mock data.
+
+## Skills
+
+- **Programming:** Python, JavaScript, PHP, Java
+- **Data Science:** Pandas, NumPy, Matplotlib, Scikit-learn, Jupyter Notebook
+- **Web Development:** HTML, CSS, JavaScript, PHP, MySQL
+- **Tools:** Git, GitHub, VS Code, XAMPP
+
+## Current Goal
+
+I am looking for a field training opportunity where I can improve my technical skills, contribute to real projects, and gain practical experience in software development, data science, or machine learning.
