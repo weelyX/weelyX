@@ -2,7 +2,7 @@
 
 Data Science student interested in **Data analysis**, **Machine Learning**, and **Web Development**.
 
-I am currently preparing for a field training opportunity and building a portfolio that demonstrates practical experience in data analysis, machine learning, data mining, and web application development.
+I am currently preparing for a field training opportunity and using GitHub to organize my academic and practical projects.
 
 ## Featured Projects
 
@@ -30,4 +30,4 @@ Interactive school bus tracking frontend with role-based screens, live-map simul
 
 ## Current Goal
 
-I am looking for a field training opportunity where I can improve my technical skills, contribute to real projects, and gain practical experience in software development, data science, or machine learning.
+I am looking for a field training opportunity where I can improve my technical skills, work on real projects, and gain practical experience in software development, data science, or machine learning.
